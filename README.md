@@ -6,6 +6,16 @@
 
 Content note: These templates were created with AI assistance (Muse) and edited/arranged by the maintainer.
 
+## Demo — what the storefront looks like
+
+The templates come from a working storefront app built with Muse. Screenshots of that demo edition (it shows the full catalog, including a few templates that are intentionally not distributed in this repo):
+
+<img src="assets/demo-storefront.svg" alt="Forge storefront — desktop view with category tiles and a featured app" width="900">
+
+<img src="assets/demo-mobile.svg" alt="Forge storefront — mobile view in Chinese" width="320">
+
+*Left/top: desktop storefront (English). Right/bottom: the same storefront on mobile with the one-tap 中文 toggle. The demo is view-only — to actually get an app, use a template spec below.*
+
 ## What this is — and what it is not
 
 This repository is a catalog of **build specs**: one Markdown file per template describing what the app is, its features, the questions to ask before building it, and sample content. There are 94 templates.
