@@ -1,0 +1,660 @@
+[
+  {
+    "id": "feelings-detective",
+    "name": "Classroom Feelings Detective",
+    "category": "Games",
+    "tagline": "Read the clues, guess what a classmate is feeling",
+    "spec": "templates/feelings-detective.md"
+  },
+  {
+    "id": "moon-mailbox",
+    "name": "The Moon Mailbox",
+    "category": "Storytelling",
+    "tagline": "Write to the Moon tonight. Wake up to a story that answers you.",
+    "spec": "templates/moon-mailbox.md"
+  },
+  {
+    "id": "story-dice-studio",
+    "name": "Story Dice Studio",
+    "category": "Storytelling",
+    "tagline": "Roll a hero, a place, and a problem — then tell a story that's never existed before.",
+    "spec": "templates/story-dice-studio.md"
+  },
+  {
+    "id": "word-lab",
+    "name": "Word Lab: Vocabulary & Reading Quest",
+    "category": "Education",
+    "tagline": "Learn powerful words in real stories — then use them like a writer.",
+    "spec": "templates/word-lab.md"
+  },
+  {
+    "id": "curious-minds-science-lab",
+    "name": "Curious Minds: Science Lab",
+    "category": "Education",
+    "tagline": "Ask, predict, test, and explain — real science thinking for young kids.",
+    "spec": "templates/curious-minds-science-lab.md"
+  },
+  {
+    "id": "pattern-builders",
+    "name": "Pattern Builders: Logic & Early Coding",
+    "category": "Education",
+    "tagline": "Sequences, loops, and debugging — coding thinking with no code to type.",
+    "spec": "templates/pattern-builders.md"
+  },
+  {
+    "id": "puzzle-manor-cozy-escape",
+    "name": "Puzzle Manor: Cozy Escape Rooms",
+    "category": "Games",
+    "tagline": "Solve chained clues, unlock cozy rooms, escape by thinking — not rushing.",
+    "spec": "templates/puzzle-manor-cozy-escape.md"
+  },
+  {
+    "id": "treasure-tide-map-adventure",
+    "name": "Treasure Tide: Map Adventure",
+    "category": "Games",
+    "tagline": "Plan the route, ride the tides, find the treasure — together.",
+    "spec": "templates/treasure-tide-map-adventure.md"
+  },
+  {
+    "id": "creature-quest-kindness-cards",
+    "name": "Creature Quest: Kindness Card Puzzles",
+    "category": "Games",
+    "tagline": "Combine creature cards, solve the puzzle guardians, win with clever kindness.",
+    "spec": "templates/creature-quest-kindness-cards.md"
+  },
+  {
+    "id": "clue-and-supper",
+    "name": "Clue & Supper",
+    "category": "Grown-ups",
+    "tagline": "Host a murder-free mystery night: assign secret roles, serve the courses, and let your guests solve it between starter and dessert.",
+    "spec": "templates/clue-and-supper.md"
+  },
+  {
+    "id": "second-thoughts",
+    "name": "Second Thoughts",
+    "category": "Grown-ups",
+    "tagline": "A weekly club in an app: one fair debate, one fiendish logic puzzle, and the tools to change your mind well.",
+    "spec": "templates/second-thoughts.md"
+  },
+  {
+    "id": "commonplace-book",
+    "name": "The Commonplace Book",
+    "category": "Grown-ups",
+    "tagline": "Keep what you read. Connect what you think. Review what matters.",
+    "spec": "templates/commonplace-book.md"
+  },
+  {
+    "id": "weekend-reset-studio",
+    "name": "Weekend Reset Studio",
+    "category": "Grown-ups",
+    "tagline": "A calm 25-minute reset for a home that breathes again",
+    "spec": "templates/weekend-reset-studio.md"
+  },
+  {
+    "id": "suitcase-stories",
+    "name": "Suitcase Stories",
+    "category": "Storytelling",
+    "tagline": "Open the suitcase, pick a souvenir, hear a tale from a far-away place.",
+    "spec": "templates/suitcase-stories.md"
+  },
+  {
+    "id": "mislabelled-museum",
+    "name": "The Mislabelled Museum",
+    "category": "Games",
+    "tagline": "A cozy deduction game: read the clues, place every exhibit",
+    "spec": "templates/mislabelled-museum.md"
+  },
+  {
+    "id": "unfinished-letter-studio",
+    "name": "The Unfinished Letter Studio",
+    "category": "Grown-ups",
+    "tagline": "Finish the letter you have been meaning to write",
+    "spec": "templates/unfinished-letter-studio.md"
+  },
+  {
+    "id": "lantern-story-club",
+    "name": "The Lantern Story Club",
+    "category": "Storytelling",
+    "tagline": "Stories that glow, one lantern at a time",
+    "spec": "templates/lantern-story-club.md"
+  },
+  {
+    "id": "story-lighthouse",
+    "name": "Story Lighthouse",
+    "category": "Storytelling",
+    "tagline": "A calm harbour-light keeper who turns each night into a story",
+    "spec": "templates/story-lighthouse.md"
+  },
+  {
+    "id": "simple-machines-workshop",
+    "name": "Simple Machines Workshop",
+    "category": "Education",
+    "tagline": "Hands-on levers, pulleys and ramps kids build and test",
+    "spec": "templates/simple-machines-workshop.md"
+  },
+  {
+    "id": "rhythm-relay-lab",
+    "name": "Rhythm Relay Lab",
+    "category": "Games",
+    "tagline": "Listen, remember, and play the beat back together",
+    "spec": "templates/rhythm-relay-lab.md"
+  },
+  {
+    "id": "table-talk-studio",
+    "name": "Table Talk Studio",
+    "category": "Grown-ups",
+    "tagline": "Great questions, easy hosting — a conversation night that flows",
+    "spec": "templates/table-talk-studio.md"
+  },
+  {
+    "id": "cipher-island",
+    "name": "Cipher Island",
+    "category": "Games",
+    "tagline": "Crack gentle codes, unlock the island, one clue at a time",
+    "spec": "templates/cipher-island.md"
+  },
+  {
+    "id": "porch-garden-notebook",
+    "name": "Porch Garden Notebook",
+    "category": "Grown-ups",
+    "tagline": "A calm seasonal notebook for a small green corner",
+    "spec": "templates/porch-garden-notebook.md"
+  },
+  {
+    "id": "midnight-bakery-tales",
+    "name": "The Midnight Bakery",
+    "category": "Storytelling",
+    "tagline": "A warm bake-along story that rises one choice at a time",
+    "spec": "templates/midnight-bakery-tales.md"
+  },
+  {
+    "id": "echo-grove-memory",
+    "name": "Echo Grove",
+    "category": "Games",
+    "tagline": "A listening memory game — hear the sequence, play it back",
+    "spec": "templates/echo-grove-memory.md"
+  },
+  {
+    "id": "chapter-verse-book-club",
+    "name": "Chapter & Verse Book Club",
+    "category": "Grown-ups",
+    "tagline": "A warm book-club companion that writes the discussion for you",
+    "spec": "templates/chapter-verse-book-club.md"
+  },
+  {
+    "id": "listening-room",
+    "name": "The Listening Room",
+    "category": "Grown-ups",
+    "tagline": "Music evenings that turn listening into conversation",
+    "spec": "templates/listening-room.md"
+  },
+  {
+    "id": "cloud-shepherd-stories",
+    "name": "Cloud Shepherd Stories",
+    "category": "Storytelling",
+    "tagline": "Gentle sky stories, herded home one cloud at a time",
+    "spec": "templates/cloud-shepherd-stories.md"
+  },
+  {
+    "id": "fraction-kitchen-studio",
+    "name": "Fraction Kitchen Studio",
+    "category": "Education",
+    "tagline": "Learn fractions by measuring, mixing and sharing",
+    "spec": "templates/fraction-kitchen-studio.md"
+  },
+  {
+    "id": "lantern-logic",
+    "name": "Lantern Logic: Truth-Tellers & Tricksters",
+    "category": "Games",
+    "tagline": "Gentle logic puzzles where you deduce who is telling the truth",
+    "spec": "templates/lantern-logic.md"
+  },
+  {
+    "id": "pillow-fort-chronicles",
+    "name": "Pillow Fort Chronicles",
+    "category": "Storytelling",
+    "tagline": "Cozy blanket-fort tales your child helps steer",
+    "spec": "templates/pillow-fort-chronicles.md"
+  },
+  {
+    "id": "young-naturalist-field-journal",
+    "name": "Young Naturalist Field Journal",
+    "category": "Education",
+    "tagline": "Observe, sketch and wonder — one habitat at a time",
+    "spec": "templates/young-naturalist-field-journal.md"
+  },
+  {
+    "id": "gear-train-workshop",
+    "name": "Gear Train Workshop",
+    "category": "Games",
+    "tagline": "Predict, build and test spinning gear trains",
+    "spec": "templates/gear-train-workshop.md"
+  },
+  {
+    "id": "keepsake-interview-studio",
+    "name": "The Keepsake Interview Studio",
+    "category": "Grown-ups",
+    "tagline": "Gentle interviews that turn conversations into keepsakes",
+    "spec": "templates/keepsake-interview-studio.md"
+  },
+  {
+    "id": "paper-boat-post-office",
+    "name": "The Paper Boat Post Office",
+    "category": "Storytelling",
+    "tagline": "River letters that carry a story downstream, one stop at a time",
+    "spec": "templates/paper-boat-post-office.md"
+  },
+  {
+    "id": "clock-compass-workshop",
+    "name": "The Clock & Compass Workshop",
+    "category": "Education",
+    "tagline": "Hands-on time, calendars and directions — learned by doing",
+    "spec": "templates/clock-compass-workshop.md"
+  },
+  {
+    "id": "domino-design-lab",
+    "name": "The Domino Design Lab",
+    "category": "Games",
+    "tagline": "Build a chain, predict the fall, then watch it run",
+    "spec": "templates/domino-design-lab.md"
+  },
+  {
+    "id": "heirloom-recipe-atelier",
+    "name": "The Heirloom Recipe Atelier",
+    "category": "Grown-ups",
+    "tagline": "Turn a beloved dish into a keepsake recipe story",
+    "spec": "templates/heirloom-recipe-atelier.md"
+  },
+  {
+    "id": "night-train-story-atlas",
+    "name": "The Night Train Story Atlas",
+    "category": "Storytelling",
+    "tagline": "A cozy station-by-station story journey",
+    "spec": "templates/night-train-story-atlas.md"
+  },
+  {
+    "id": "constellation-classroom",
+    "name": "The Constellation Classroom",
+    "category": "Education",
+    "tagline": "Find Polaris, track the Moon, and read the night sky",
+    "spec": "templates/constellation-classroom.md"
+  },
+  {
+    "id": "balance-beam-bakery",
+    "name": "The Balance Beam Bakery",
+    "category": "Games",
+    "tagline": "A cooperative balance-scale puzzle game — weigh, swap, and make both sides equal",
+    "spec": "templates/balance-beam-bakery.md"
+  },
+  {
+    "id": "mend-and-make-studio",
+    "name": "The Mend & Make Studio",
+    "category": "Grown-ups",
+    "tagline": "Turn worn favourites into kept stories — one visible repair at a time",
+    "spec": "templates/mend-and-make-studio.md"
+  },
+  {
+    "id": "seed-library-stories",
+    "name": "The Seed Library",
+    "category": "Storytelling",
+    "tagline": "Tiny seed packets that grow into gentle stories",
+    "spec": "templates/seed-library-stories.md"
+  },
+  {
+    "id": "weather-window-lab",
+    "name": "The Weather Window",
+    "category": "Education",
+    "tagline": "Look up, log the sky, and learn to predict tomorrow",
+    "spec": "templates/weather-window-lab.md"
+  },
+  {
+    "id": "marble-run-architects",
+    "name": "Marble Run Architects",
+    "category": "Games",
+    "tagline": "Design the track, test gravity, land every marble home",
+    "spec": "templates/marble-run-architects.md"
+  },
+  {
+    "id": "night-sky-salon",
+    "name": "The Night Sky Salon",
+    "category": "Grown-ups",
+    "tagline": "An unhurried evening of moon, planets and good conversation",
+    "spec": "templates/night-sky-salon.md"
+  },
+  {
+    "id": "button-jar-tales",
+    "name": "The Button Jar Tales",
+    "category": "Storytelling",
+    "tagline": "Shake the jar, pick a button, tell a tiny tale together",
+    "spec": "templates/button-jar-tales.md"
+  },
+  {
+    "id": "map-room-geography-detectives",
+    "name": "The Map Room: Geography Detectives",
+    "category": "Education",
+    "tagline": "Read maps, follow routes, and think like a cartographer",
+    "spec": "templates/map-room-geography-detectives.md"
+  },
+  {
+    "id": "bee-trail-builders",
+    "name": "Bee Trail Builders",
+    "category": "Games",
+    "tagline": "A cooperative trail-planning board game from hive to flowers",
+    "spec": "templates/bee-trail-builders.md"
+  },
+  {
+    "id": "harbor-light-story-boat",
+    "name": "The Harbor Light Story Boat",
+    "category": "Storytelling",
+    "tagline": "A floating library that sails one gentle story at a time",
+    "spec": "templates/harbor-light-story-boat.md"
+  },
+  {
+    "id": "morning-pages-studio",
+    "name": "The Morning Pages Studio",
+    "category": "Grown-ups",
+    "tagline": "Begin the day with three honest pages — no audience, no editing, just clarity",
+    "spec": "templates/morning-pages-studio.md"
+  },
+  {
+    "id": "sentence-workshop",
+    "name": "The Sentence Workshop",
+    "category": "Education",
+    "tagline": "Build silly, strong sentences — grammar you can play with",
+    "spec": "templates/sentence-workshop.md"
+  },
+  {
+    "id": "tidal-clock-tower",
+    "name": "The Tidal Clock Tower",
+    "category": "Games",
+    "tagline": "A cooperative clue game about order, bells and tide steps",
+    "spec": "templates/tidal-clock-tower.md"
+  },
+  {
+    "id": "umbrella-library-stories",
+    "name": "The Umbrella Library",
+    "category": "Storytelling",
+    "tagline": "Borrow an umbrella, hear the story it carried through the rain",
+    "spec": "templates/umbrella-library-stories.md"
+  },
+  {
+    "id": "tea-tasting-journal",
+    "name": "The Tea Tasting Journal",
+    "category": "Grown-ups",
+    "tagline": "A slow tasting notebook for leaves, steam and quiet notes",
+    "spec": "templates/tea-tasting-journal.md"
+  },
+  {
+    "id": "night-market-tiny-lights",
+    "name": "The Night Market of Tiny Lights",
+    "category": "Storytelling",
+    "tagline": "Wander lantern-lit stalls and co-create a tale at each one",
+    "spec": "templates/night-market-tiny-lights.md"
+  },
+  {
+    "id": "compass-rose-quest",
+    "name": "Compass Rose Quest",
+    "category": "Games",
+    "tagline": "Navigate by clues, not by guessing — a map-logic adventure",
+    "spec": "templates/compass-rose-quest.md"
+  },
+  {
+    "id": "letterpress-workshop",
+    "name": "The Letterpress Workshop",
+    "category": "Grown-ups",
+    "tagline": "Set type by hand, ink it, and pull your first print",
+    "spec": "templates/letterpress-workshop.md"
+  },
+  {
+    "id": "paragraph-pioneers",
+    "name": "Paragraph Pioneers",
+    "category": "Education",
+    "tagline": "Build clear paragraphs — topic sentence, details, and a strong finish",
+    "spec": "templates/paragraph-pioneers.md"
+  },
+  {
+    "id": "firefly-postcard-stories",
+    "name": "Firefly Postcard Stories",
+    "category": "Storytelling",
+    "tagline": "Tiny stories mailed from a summer night",
+    "spec": "templates/firefly-postcard-stories.md"
+  },
+  {
+    "id": "analog-photo-walk",
+    "name": "The Analog Photo Walk",
+    "category": "Grown-ups",
+    "tagline": "Slow walks, 12 frames, and a contact sheet you keep",
+    "spec": "templates/analog-photo-walk.md"
+  },
+  {
+    "id": "soundwalk-diary",
+    "name": "The Soundwalk Diary",
+    "category": "Grown-ups",
+    "tagline": "Slow walks that teach you to listen to a place",
+    "spec": "templates/soundwalk-diary.md"
+  },
+  {
+    "id": "ferryman-manifest",
+    "name": "The Ferryman's Manifest",
+    "category": "Games",
+    "tagline": "A one-item-at-a-time river-crossing logic game",
+    "spec": "templates/ferryman-manifest.md"
+  },
+  {
+    "id": "shadow-light-lab",
+    "name": "The Shadow Light Lab",
+    "category": "Education",
+    "tagline": "Hands-on light, shadow and measuring experiments for curious kids",
+    "spec": "templates/shadow-light-lab.md"
+  },
+  {
+    "id": "kite-tail-tales",
+    "name": "The Kite Tail Tales",
+    "category": "Storytelling",
+    "tagline": "Cozy sky stories tied one ribbon at a time",
+    "spec": "templates/kite-tail-tales.md"
+  },
+  {
+    "id": "word-roots-garden",
+    "name": "The Word Roots Garden",
+    "category": "Education",
+    "tagline": "Grow big words from small roots — prefixes, roots and suffixes made visible",
+    "spec": "templates/word-roots-garden.md"
+  },
+  {
+    "id": "gem-hoard-game",
+    "name": "The Gem Hoard Game",
+    "category": "Games",
+    "tagline": "A take-turns gem game where counting is the strategy",
+    "spec": "templates/gem-hoard-game.md"
+  },
+  {
+    "id": "sourdough-starter-diary",
+    "name": "The Sourdough Starter Diary",
+    "category": "Grown-ups",
+    "tagline": "A calm kitchen journal for feeding, timing and trusting your starter",
+    "spec": "templates/sourdough-starter-diary.md"
+  },
+  {
+    "id": "museum-of-small-hours",
+    "name": "The Museum of Small Hours",
+    "category": "Storytelling",
+    "tagline": "Tiny nighttime exhibits that each tell one gentle story",
+    "spec": "templates/museum-of-small-hours.md"
+  },
+  {
+    "id": "measurement-workshop",
+    "name": "The Measurement Workshop",
+    "category": "Education",
+    "tagline": "Estimate, measure, and prove it — with rulers, scales and timers",
+    "spec": "templates/measurement-workshop.md"
+  },
+  {
+    "id": "chime-tower-code",
+    "name": "The Chime Tower Code",
+    "category": "Games",
+    "tagline": "A bell-and-lantern logic game where every clue counts",
+    "spec": "templates/chime-tower-code.md"
+  },
+  {
+    "id": "riverstone-story-circle",
+    "name": "The Riverstone Story Circle",
+    "category": "Storytelling",
+    "tagline": "Stories told one smooth stone at a time",
+    "spec": "templates/riverstone-story-circle.md"
+  },
+  {
+    "id": "symmetry-studio",
+    "name": "The Symmetry Studio",
+    "category": "Education",
+    "tagline": "Fold, flip and finish the other half",
+    "spec": "templates/symmetry-studio.md"
+  },
+  {
+    "id": "lily-pad-stack",
+    "name": "Lily Pad Stack",
+    "category": "Games",
+    "tagline": "Move the whole tower, one leaf at a time",
+    "spec": "templates/lily-pad-stack.md"
+  },
+  {
+    "id": "pocket-bookbinding-atelier",
+    "name": "Pocket Bookbinding Atelier",
+    "category": "Grown-ups",
+    "tagline": "Bind a small notebook by hand, one quiet signature at a time",
+    "spec": "templates/pocket-bookbinding-atelier.md"
+  },
+  {
+    "id": "story-quilt-workshop",
+    "name": "The Story Quilt",
+    "category": "Storytelling",
+    "tagline": "Stitch a story together, one patch at a time",
+    "spec": "templates/story-quilt-workshop.md"
+  },
+  {
+    "id": "tally-chart-workshop",
+    "name": "The Tally & Chart Workshop",
+    "category": "Education",
+    "tagline": "Turn tallies into charts — and charts into answers",
+    "spec": "templates/tally-chart-workshop.md"
+  },
+  {
+    "id": "pebble-path-tactics",
+    "name": "Pebble Path Tactics",
+    "category": "Games",
+    "tagline": "Plan every step, then watch your hedgehog trot home",
+    "spec": "templates/pebble-path-tactics.md"
+  },
+  {
+    "id": "poetry-forms-studio",
+    "name": "Poetry Forms Studio",
+    "category": "Grown-ups",
+    "tagline": "Learn a classic form, draft it line by line, revise with care",
+    "spec": "templates/poetry-forms-studio.md"
+  },
+  {
+    "id": "slow-stitch-sampler",
+    "name": "The Slow Stitch Sampler",
+    "category": "Grown-ups",
+    "tagline": "Stitch a sampler one quiet row at a time",
+    "spec": "templates/slow-stitch-sampler.md"
+  },
+  {
+    "id": "marigold-door-tales",
+    "name": "The Marigold Door Tales",
+    "category": "Storytelling",
+    "tagline": "A tiny garden door to a new co-created world each evening",
+    "spec": "templates/marigold-door-tales.md"
+  },
+  {
+    "id": "place-value-post-office",
+    "name": "The Place Value Post Office",
+    "category": "Education",
+    "tagline": "Sort parcels by hundreds, tens and ones",
+    "spec": "templates/place-value-post-office.md"
+  },
+  {
+    "id": "mirror-garden-maze",
+    "name": "The Mirror Garden Maze",
+    "category": "Games",
+    "tagline": "Bounce sunlight to the flowers with clever mirrors",
+    "spec": "templates/mirror-garden-maze.md"
+  },
+  {
+    "id": "acorn-archive-tales",
+    "name": "The Acorn Archive",
+    "category": "Storytelling",
+    "tagline": "Bedtime tales tucked inside acorns, opened one at a time",
+    "spec": "templates/acorn-archive-tales.md"
+  },
+  {
+    "id": "estimation-station",
+    "name": "The Estimation Station",
+    "category": "Education",
+    "tagline": "Learn to guess smart — round, estimate, and check if an answer makes sense",
+    "spec": "templates/estimation-station.md"
+  },
+  {
+    "id": "evening-sketchbook-salon",
+    "name": "The Evening Sketchbook Salon",
+    "category": "Grown-ups",
+    "tagline": "A calm 20-minute drawing ritual for grown-ups — no talent required",
+    "spec": "templates/evening-sketchbook-salon.md"
+  },
+  {
+    "id": "clockwork-caravan",
+    "name": "The Clockwork Caravan",
+    "category": "Games",
+    "tagline": "A cooperative route-and-order puzzle adventure",
+    "spec": "templates/clockwork-caravan.md"
+  },
+  {
+    "id": "tidepool-story-keeper",
+    "name": "The Tidepool Story Keeper",
+    "category": "Storytelling",
+    "tagline": "Tiny sea stories that grow one gentle chapter at a time",
+    "spec": "templates/tidepool-story-keeper.md"
+  },
+  {
+    "id": "hundred-chart-workshop",
+    "name": "The Hundred Chart Workshop",
+    "category": "Education",
+    "tagline": "Find the pattern hiding in the hundred chart",
+    "spec": "templates/hundred-chart-workshop.md"
+  },
+  {
+    "id": "prism-code-breakers",
+    "name": "Prism Code Breakers",
+    "category": "Games",
+    "tagline": "Crack the colour code with pure deduction",
+    "spec": "templates/prism-code-breakers.md"
+  },
+  {
+    "id": "spice-blend-atelier",
+    "name": "The Spice Blend Atelier",
+    "category": "Grown-ups",
+    "tagline": "Blend a small-batch spice mix by weight, taste, and note",
+    "spec": "templates/spice-blend-atelier.md"
+  },
+  {
+    "id": "attic-telescope-tales",
+    "name": "The Attic Telescope Tales",
+    "category": "Storytelling",
+    "tagline": "A new star each night, a gentle tale to match",
+    "spec": "templates/attic-telescope-tales.md"
+  },
+  {
+    "id": "number-line-ferry",
+    "name": "The Number Line Ferry",
+    "category": "Education",
+    "tagline": "Ride the ferry, hop the number line, land exactly on target",
+    "spec": "templates/number-line-ferry.md"
+  },
+  {
+    "id": "gadget-sorting-machine",
+    "name": "The Gadget Sorting Machine",
+    "category": "Games",
+    "tagline": "Sort inventions with AND, OR and NOT — checked rules, no wrong answers",
+    "spec": "templates/gadget-sorting-machine.md"
+  }
+]

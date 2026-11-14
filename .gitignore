@@ -1,0 +1,9 @@
+app.db
+*.db
+audits/
+.harness/
+node_modules/
+.space-build*/
+*.muse-github-snapshot-sync.json
+media-generation-*.json
+DATA-PLAN.md
