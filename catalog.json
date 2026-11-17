@@ -670,5 +670,19 @@
     "category": "Storytelling",
     "tagline": "A floating raft library that drifts one gentle story at a time",
     "spec": "templates/raft-library-tales.md"
+  },
+  {
+    "id": "multiplication-meadow-workshop",
+    "name": "The Multiplication Meadow Workshop",
+    "category": "Education",
+    "tagline": "Build times tables as rows and groups — never as chants to memorise cold",
+    "spec": "templates/multiplication-meadow-workshop.md"
+  },
+  {
+    "id": "budget-ledger-studio",
+    "name": "The Budget Ledger Studio",
+    "category": "Grown-ups",
+    "tagline": "A calm monthly ledger that shows where the money went — and what to try next month",
+    "spec": "templates/budget-ledger-studio.md"
   }
 ]

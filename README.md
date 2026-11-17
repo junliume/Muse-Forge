@@ -18,7 +18,7 @@ The templates come from a working storefront app built with Muse. Screenshots of
 
 ## What this is — and what it is not
 
-This repository is a catalog of **build specs**: one Markdown file per template describing what the app is, its features, the questions to ask before building it, and sample content. There are 96 templates.
+This repository is a catalog of **build specs**: one Markdown file per template describing what the app is, its features, the questions to ask before building it, and sample content. There are 98 templates.
 
 What it is NOT:
 
@@ -46,7 +46,7 @@ Expect a fresh build inspired by the spec, not a pixel-perfect copy: layout, ill
 
 ## Catalog
 
-96 templates in total: 25 Storytelling, 22 Education, 25 Games, 24 Grown-ups.
+98 templates in total: 25 Storytelling, 23 Education, 25 Games, 25 Grown-ups.
 
 ### Storytelling (25)
 
@@ -76,7 +76,7 @@ Expect a fresh build inspired by the spec, not a pixel-perfect copy: layout, ill
 - [The Tidepool Story Keeper](templates/tidepool-story-keeper.md) — Tiny sea stories that grow one gentle chapter at a time
 - [The Umbrella Library](templates/umbrella-library-stories.md) — Borrow an umbrella, hear the story it carried through the rain
 
-### Education (22)
+### Education (23)
 
 - [Curious Minds: Science Lab](templates/curious-minds-science-lab.md) — Ask, predict, test, and explain — real science thinking for young kids.
 - [Fraction Kitchen Studio](templates/fraction-kitchen-studio.md) — Learn fractions by measuring, mixing and sharing
@@ -90,6 +90,7 @@ Expect a fresh build inspired by the spec, not a pixel-perfect copy: layout, ill
 - [The Hundred Chart Workshop](templates/hundred-chart-workshop.md) — Find the pattern hiding in the hundred chart
 - [The Map Room: Geography Detectives](templates/map-room-geography-detectives.md) — Read maps, follow routes, and think like a cartographer
 - [The Measurement Workshop](templates/measurement-workshop.md) — Estimate, measure, and prove it — with rulers, scales and timers
+- [The Multiplication Meadow Workshop](templates/multiplication-meadow-workshop.md) — Build times tables as rows and groups — never as chants to memorise cold
 - [The Number Line Ferry](templates/number-line-ferry.md) — Ride the ferry, hop the number line, land exactly on target
 - [The Place Value Post Office](templates/place-value-post-office.md) — Sort parcels by hundreds, tens and ones
 - [The Sentence Workshop](templates/sentence-workshop.md) — Build silly, strong sentences — grammar you can play with
@@ -129,7 +130,7 @@ Expect a fresh build inspired by the spec, not a pixel-perfect copy: layout, ill
 - [The Tidal Clock Tower](templates/tidal-clock-tower.md) — A cooperative clue game about order, bells and tide steps
 - [Treasure Tide: Map Adventure](templates/treasure-tide-map-adventure.md) — Plan the route, ride the tides, find the treasure — together.
 
-### Grown-ups (24)
+### Grown-ups (25)
 
 - [Chapter & Verse Book Club](templates/chapter-verse-book-club.md) — A warm book-club companion that writes the discussion for you
 - [Clue & Supper](templates/clue-and-supper.md) — Host a murder-free mystery night: assign secret roles, serve the courses, and let your guests solve it between starter and dessert.
@@ -137,6 +138,7 @@ Expect a fresh build inspired by the spec, not a pixel-perfect copy: layout, ill
 - [Poetry Forms Studio](templates/poetry-forms-studio.md) — Learn a classic form, draft it line by line, revise with care
 - [Porch Garden Notebook](templates/porch-garden-notebook.md) — A calm seasonal notebook for a small green corner
 - [Second Thoughts](templates/second-thoughts.md) — A weekly club in an app: one fair debate, one fiendish logic puzzle, and the tools to change your mind well.
+- [The Budget Ledger Studio](templates/budget-ledger-studio.md) — A calm monthly ledger that shows where the money went — and what to try next month
 - [Table Talk Studio](templates/table-talk-studio.md) — Great questions, easy hosting — a conversation night that flows
 - [The Analog Photo Walk](templates/analog-photo-walk.md) — Slow walks, 12 frames, and a contact sheet you keep
 - [The Commonplace Book](templates/commonplace-book.md) — Keep what you read. Connect what you think. Review what matters.
