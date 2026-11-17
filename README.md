@@ -18,7 +18,7 @@ The templates come from a working storefront app built with Muse. Screenshots of
 
 ## What this is — and what it is not
 
-This repository is a catalog of **build specs**: one Markdown file per template describing what the app is, its features, the questions to ask before building it, and sample content. There are 94 templates.
+This repository is a catalog of **build specs**: one Markdown file per template describing what the app is, its features, the questions to ask before building it, and sample content. There are 96 templates.
 
 What it is NOT:
 
@@ -46,9 +46,9 @@ Expect a fresh build inspired by the spec, not a pixel-perfect copy: layout, ill
 
 ## Catalog
 
-94 templates in total: 24 Storytelling, 21 Education, 25 Games, 24 Grown-ups.
+96 templates in total: 25 Storytelling, 22 Education, 25 Games, 24 Grown-ups.
 
-### Storytelling (24)
+### Storytelling (25)
 
 - [Cloud Shepherd Stories](templates/cloud-shepherd-stories.md) — Gentle sky stories, herded home one cloud at a time
 - [Firefly Postcard Stories](templates/firefly-postcard-stories.md) — Tiny stories mailed from a summer night
@@ -69,13 +69,14 @@ Expect a fresh build inspired by the spec, not a pixel-perfect copy: layout, ill
 - [The Night Market of Tiny Lights](templates/night-market-tiny-lights.md) — Wander lantern-lit stalls and co-create a tale at each one
 - [The Night Train Story Atlas](templates/night-train-story-atlas.md) — A cozy station-by-station story journey
 - [The Paper Boat Post Office](templates/paper-boat-post-office.md) — River letters that carry a story downstream, one stop at a time
+- [The Raft Library Tales](templates/raft-library-tales.md) — A floating raft library that drifts one gentle story at a time
 - [The Riverstone Story Circle](templates/riverstone-story-circle.md) — Stories told one smooth stone at a time
 - [The Seed Library](templates/seed-library-stories.md) — Tiny seed packets that grow into gentle stories
 - [The Story Quilt](templates/story-quilt-workshop.md) — Stitch a story together, one patch at a time
 - [The Tidepool Story Keeper](templates/tidepool-story-keeper.md) — Tiny sea stories that grow one gentle chapter at a time
 - [The Umbrella Library](templates/umbrella-library-stories.md) — Borrow an umbrella, hear the story it carried through the rain
 
-### Education (21)
+### Education (22)
 
 - [Curious Minds: Science Lab](templates/curious-minds-science-lab.md) — Ask, predict, test, and explain — real science thinking for young kids.
 - [Fraction Kitchen Studio](templates/fraction-kitchen-studio.md) — Learn fractions by measuring, mixing and sharing
@@ -83,6 +84,7 @@ Expect a fresh build inspired by the spec, not a pixel-perfect copy: layout, ill
 - [Pattern Builders: Logic & Early Coding](templates/pattern-builders.md) — Sequences, loops, and debugging — coding thinking with no code to type.
 - [Simple Machines Workshop](templates/simple-machines-workshop.md) — Hands-on levers, pulleys and ramps kids build and test
 - [The Clock & Compass Workshop](templates/clock-compass-workshop.md) — Hands-on time, calendars and directions — learned by doing
+- [The Coin & Change Workshop](templates/coin-change-workshop.md) — Count coins, make change, and check it back — money maths you can hold
 - [The Constellation Classroom](templates/constellation-classroom.md) — Find Polaris, track the Moon, and read the night sky
 - [The Estimation Station](templates/estimation-station.md) — Learn to guess smart — round, estimate, and check if an answer makes sense
 - [The Hundred Chart Workshop](templates/hundred-chart-workshop.md) — Find the pattern hiding in the hundred chart

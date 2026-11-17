@@ -656,5 +656,19 @@
     "category": "Games",
     "tagline": "Sort inventions with AND, OR and NOT — checked rules, no wrong answers",
     "spec": "templates/gadget-sorting-machine.md"
+  },
+  {
+    "id": "coin-change-workshop",
+    "name": "The Coin & Change Workshop",
+    "category": "Education",
+    "tagline": "Count coins, make change, and check it back — money maths you can hold",
+    "spec": "templates/coin-change-workshop.md"
+  },
+  {
+    "id": "raft-library-tales",
+    "name": "The Raft Library Tales",
+    "category": "Storytelling",
+    "tagline": "A floating raft library that drifts one gentle story at a time",
+    "spec": "templates/raft-library-tales.md"
   }
 ]
