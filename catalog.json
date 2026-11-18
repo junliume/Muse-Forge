@@ -684,5 +684,19 @@
     "category": "Grown-ups",
     "tagline": "A calm monthly ledger that shows where the money went — and what to try next month",
     "spec": "templates/budget-ledger-studio.md"
+  },
+  {
+    "id": "sharing-fair-workshop",
+    "name": "The Sharing Fair Workshop",
+    "category": "Education",
+    "tagline": "Share it fair, group it smart — division you can see, check, and trust",
+    "spec": "templates/sharing-fair-workshop.md"
+  },
+  {
+    "id": "decimal-point-workshop",
+    "name": "The Decimal Point Workshop",
+    "category": "Education",
+    "tagline": "Zoom into the number line — tenths, hundredths, and numbers that live between",
+    "spec": "templates/decimal-point-workshop.md"
   }
 ]

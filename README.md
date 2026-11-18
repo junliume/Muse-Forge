@@ -18,7 +18,7 @@ The templates come from a working storefront app built with Muse. Screenshots of
 
 ## What this is — and what it is not
 
-This repository is a catalog of **build specs**: one Markdown file per template describing what the app is, its features, the questions to ask before building it, and sample content. There are 98 templates.
+This repository is a catalog of **build specs**: one Markdown file per template describing what the app is, its features, the questions to ask before building it, and sample content. There are 100 templates.
 
 What it is NOT:
 
@@ -46,7 +46,7 @@ Expect a fresh build inspired by the spec, not a pixel-perfect copy: layout, ill
 
 ## Catalog
 
-98 templates in total: 25 Storytelling, 23 Education, 25 Games, 25 Grown-ups.
+100 templates in total: 25 Storytelling, 25 Education, 25 Games, 25 Grown-ups.
 
 ### Storytelling (25)
 
@@ -76,7 +76,7 @@ Expect a fresh build inspired by the spec, not a pixel-perfect copy: layout, ill
 - [The Tidepool Story Keeper](templates/tidepool-story-keeper.md) — Tiny sea stories that grow one gentle chapter at a time
 - [The Umbrella Library](templates/umbrella-library-stories.md) — Borrow an umbrella, hear the story it carried through the rain
 
-### Education (23)
+### Education (25)
 
 - [Curious Minds: Science Lab](templates/curious-minds-science-lab.md) — Ask, predict, test, and explain — real science thinking for young kids.
 - [Fraction Kitchen Studio](templates/fraction-kitchen-studio.md) — Learn fractions by measuring, mixing and sharing
@@ -86,6 +86,7 @@ Expect a fresh build inspired by the spec, not a pixel-perfect copy: layout, ill
 - [The Clock & Compass Workshop](templates/clock-compass-workshop.md) — Hands-on time, calendars and directions — learned by doing
 - [The Coin & Change Workshop](templates/coin-change-workshop.md) — Count coins, make change, and check it back — money maths you can hold
 - [The Constellation Classroom](templates/constellation-classroom.md) — Find Polaris, track the Moon, and read the night sky
+- [The Decimal Point Workshop](templates/decimal-point-workshop.md) — Zoom into the number line — tenths, hundredths, and numbers that live between
 - [The Estimation Station](templates/estimation-station.md) — Learn to guess smart — round, estimate, and check if an answer makes sense
 - [The Hundred Chart Workshop](templates/hundred-chart-workshop.md) — Find the pattern hiding in the hundred chart
 - [The Map Room: Geography Detectives](templates/map-room-geography-detectives.md) — Read maps, follow routes, and think like a cartographer
@@ -95,6 +96,7 @@ Expect a fresh build inspired by the spec, not a pixel-perfect copy: layout, ill
 - [The Place Value Post Office](templates/place-value-post-office.md) — Sort parcels by hundreds, tens and ones
 - [The Sentence Workshop](templates/sentence-workshop.md) — Build silly, strong sentences — grammar you can play with
 - [The Shadow Light Lab](templates/shadow-light-lab.md) — Hands-on light, shadow and measuring experiments for curious kids
+- [The Sharing Fair Workshop](templates/sharing-fair-workshop.md) — Share it fair, group it smart — division you can see, check, and trust
 - [The Symmetry Studio](templates/symmetry-studio.md) — Fold, flip and finish the other half
 - [The Tally & Chart Workshop](templates/tally-chart-workshop.md) — Turn tallies into charts — and charts into answers
 - [The Weather Window](templates/weather-window-lab.md) — Look up, log the sky, and learn to predict tomorrow
