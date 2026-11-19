@@ -18,7 +18,7 @@ The templates come from a working storefront app built with Muse. Screenshots of
 
 ## What this is — and what it is not
 
-This repository is a catalog of **build specs**: one Markdown file per template describing what the app is, its features, the questions to ask before building it, and sample content. There are 100 templates.
+This repository is a catalog of **build specs**: one Markdown file per template describing what the app is, its features, the questions to ask before building it, and sample content. There are 102 templates.
 
 What it is NOT:
 
@@ -46,7 +46,7 @@ Expect a fresh build inspired by the spec, not a pixel-perfect copy: layout, ill
 
 ## Catalog
 
-100 templates in total: 25 Storytelling, 25 Education, 25 Games, 25 Grown-ups.
+102 templates in total: 25 Storytelling, 25 Education, 26 Games, 26 Grown-ups.
 
 ### Storytelling (25)
 
@@ -104,7 +104,7 @@ Expect a fresh build inspired by the spec, not a pixel-perfect copy: layout, ill
 - [Word Lab: Vocabulary & Reading Quest](templates/word-lab.md) — Learn powerful words in real stories — then use them like a writer.
 - [Young Naturalist Field Journal](templates/young-naturalist-field-journal.md) — Observe, sketch and wonder — one habitat at a time
 
-### Games (25)
+### Games (26)
 
 - [Bee Trail Builders](templates/bee-trail-builders.md) — A cooperative trail-planning board game from hive to flowers
 - [Cipher Island](templates/cipher-island.md) — Crack gentle codes, unlock the island, one clue at a time
@@ -129,10 +129,11 @@ Expect a fresh build inspired by the spec, not a pixel-perfect copy: layout, ill
 - [The Gem Hoard Game](templates/gem-hoard-game.md) — A take-turns gem game where counting is the strategy
 - [The Mirror Garden Maze](templates/mirror-garden-maze.md) — Bounce sunlight to the flowers with clever mirrors
 - [The Mislabelled Museum](templates/mislabelled-museum.md) — A cozy deduction game: read the clues, place every exhibit
+- [The Snowline Post Relay](templates/snowline-post-relay.md) — Plan the route, read the weather, and walk the winter post home — together
 - [The Tidal Clock Tower](templates/tidal-clock-tower.md) — A cooperative clue game about order, bells and tide steps
 - [Treasure Tide: Map Adventure](templates/treasure-tide-map-adventure.md) — Plan the route, ride the tides, find the treasure — together.
 
-### Grown-ups (25)
+### Grown-ups (26)
 
 - [Chapter & Verse Book Club](templates/chapter-verse-book-club.md) — A warm book-club companion that writes the discussion for you
 - [Clue & Supper](templates/clue-and-supper.md) — Host a murder-free mystery night: assign secret roles, serve the courses, and let your guests solve it between starter and dessert.
@@ -152,6 +153,7 @@ Expect a fresh build inspired by the spec, not a pixel-perfect copy: layout, ill
 - [The Mend & Make Studio](templates/mend-and-make-studio.md) — Turn worn favourites into kept stories — one visible repair at a time
 - [The Morning Pages Studio](templates/morning-pages-studio.md) — Begin the day with three honest pages — no audience, no editing, just clarity
 - [The Night Sky Salon](templates/night-sky-salon.md) — An unhurried evening of moon, planets and good conversation
+- [The Pantry-First Notebook](templates/pantry-first-notebook.md) — A calm kitchen notebook that cooks from what you already have — and wastes less of it
 - [The Slow Stitch Sampler](templates/slow-stitch-sampler.md) — Stitch a sampler one quiet row at a time
 - [The Soundwalk Diary](templates/soundwalk-diary.md) — Slow walks that teach you to listen to a place
 - [The Sourdough Starter Diary](templates/sourdough-starter-diary.md) — A calm kitchen journal for feeding, timing and trusting your starter
